@@ -30,6 +30,6 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 [Wireframe diagrams (by Zhongqian Chen)](https://www.figma.com/file/EHfK0fJhEfNFVBMvfjG5To/Assignment-Manager-Wireframe?type=design&node-id=0%3A1&mode=design&t=XyX91CfQeFv8dazp-1)
 
-![Wireframe diagrams](Wireframes.png)
+![Wireframe diagrams](wireframe.png)
 
 See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
