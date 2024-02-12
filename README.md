@@ -57,8 +57,9 @@ Use Cases:
 10. "As a student without a laptop, I want to be able to maintain all of my school information so that I don't have to use the poorly designed mobile versions of Albert and Brightspace."
 
 ## Activity Diagrams
-
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+![Project1 drawio](https://github.com/ericemmendorfer/1-specification-exercise-team-temp-name/assets/91583186/a3b642af-756f-4e89-9a50-697adfa36c45)
+![Projec1UML Use Case 2](https://github.com/ericemmendorfer/1-specification-exercise-team-temp-name/assets/91583186/34578024-eebc-4473-81a3-4f33ab80b3bc)
+![Project1 UML](https://github.com/ericemmendorfer/1-specification-exercise-team-temp-name/assets/91583186/87c4ef05-5eab-48c4-9aff-fcb1da20666a)
 
 ## Clickable Prototype
 
