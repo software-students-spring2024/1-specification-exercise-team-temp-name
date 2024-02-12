@@ -10,6 +10,8 @@ Eric Emmendorfer https://github.com/ericemmendorfer
 
 [Zhongqian Chen (John)](https://github.com/ZhongqianChen) (https://github.com/ZhongqianChen)
 
+Hojong Shim https://github.com/HojongShim
+
 ## Stakeholders
 
 See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
@@ -32,4 +34,4 @@ See instructions. Delete this line and place images of your UML Activity diagram
 
 ![Wireframe diagrams](wireframe.png)
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Clickable prototype (by Hojong Shim)] (https://www.figma.com/proto/EHfK0fJhEfNFVBMvfjG5To/Assignment-Manager-Wireframe?type=design&node-id=2-105&t=6gW3xnWnpC2vbQx2-1&scaling=scale-down&page-id=0%3A1&mode=design)
