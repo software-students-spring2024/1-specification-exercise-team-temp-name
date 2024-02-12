@@ -45,16 +45,16 @@ The vision for our project is to create an app that allows students to better ma
 
 ## User Requirements
 Use Cases:
-1. "`As a student with many extra curricular activities, I want a way to better organize assignments I have to get done so that I can better manage my time.`"
-2. "`As a student who wants to remain on honor roll, I want a way to better visualize my grades so that I can keep track of where I am at in school.`"
-3. "`As a student who has a hard time looking at multiple syllabi, I want one place to see all my assignments so that I do not miss any deadlines.`"
-4. "`As a studnet that constantly puts stuff off until the last minute, I want a reminder of when to start assignments so that I am not rushed to complete all of them.`"
-5. "`As a student who is tired of using brightspace, albert, and google calendars to manage everything, I want one space to see everything I need to so that save time switching back and forth from everything.`"
-6. "`As a student with a lot of bigger projects and essays, I want a way to break them up and give myself deadlines so that I don't spend my Sundays doing nothing but work.`"
-7. "`As a student consistently stressed about my grades, I want a way to see where I at consistently so that I can feel more in control of them.`"
-8. "`As a student tired of dual authentication, I want a way to see everything for school on my phone so that I don't have to wait for a notification everytime.`"
-9. "`As a student commuter, I want a way to look at my assignments off line so that I can see everything I have to do while on the subway.`"
-10. "`As a student without a laptop, I want to be able to maintain all of my school information so that I don't have to use the poorly designed mobile versions of Albert and Brightspace.`"
+1. "As a student with many extra curricular activities, I want a way to better organize assignments I have to get done so that I can better manage my time."
+2. "As a student who wants to remain on honor roll, I want a way to better visualize my grades so that I can keep track of where I am at in school."
+3. "As a student who has a hard time looking at multiple syllabi, I want one place to see all my assignments so that I do not miss any deadlines."
+4. "As a studnet that constantly puts stuff off until the last minute, I want a reminder of when to start assignments so that I am not rushed to complete all of them."
+5. "As a student who is tired of using brightspace, albert, and google calendars to manage everything, I want one space to see everything I need to so that save time switching back and forth from everything."
+6. "As a student with a lot of bigger projects and essays, I want a way to break them up and give myself deadlines so that I don't spend my Sundays doing nothing but work."
+7. "As a student consistently stressed about my grades, I want a way to see where I at consistently so that I can feel more in control of them."
+8. "As a student tired of dual authentication, I want a way to see everything for school on my phone so that I don't have to wait for a notification everytime."
+9. "As a student commuter, I want a way to look at my assignments off line so that I can see everything I have to do while on the subway."
+10. "As a student without a laptop, I want to be able to maintain all of my school information so that I don't have to use the poorly designed mobile versions of Albert and Brightspace."
 
 ## Activity Diagrams
 
