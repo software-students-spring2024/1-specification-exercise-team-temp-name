@@ -10,7 +10,7 @@ Eric Emmendorfer https://github.com/ericemmendorfer
 
 [Zhongqian Chen (John)](https://github.com/ZhongqianChen) (https://github.com/ZhongqianChen)
 
-Hojong Shim https://github.com/HojongShim
+[Hojong Shim](https://github.com/HojongShim) (https://github.com/HojongShim)
 
 Ethan Kim https://github.com/ethanki
 
@@ -69,4 +69,7 @@ Use Cases:
 
 ![Wireframe diagrams](wireframe.png)
 
-[Clickable prototype (by Hojong Shim)] (https://www.figma.com/proto/EHfK0fJhEfNFVBMvfjG5To/Assignment-Manager-Wireframe?type=design&node-id=2-105&t=6gW3xnWnpC2vbQx2-1&scaling=scale-down&page-id=0%3A1&mode=design)
+[Clickable prototype (by Hojong Shim)](https://www.figma.com/proto/EHfK0fJhEfNFVBMvfjG5To/Assignment-Manager-Wireframe?type=design&node-id=2-105&t=6gW3xnWnpC2vbQx2-1&scaling=scale-down&page-id=0%3A1&mode=design) 
+
+![Clickable prototype](prototype.png) 
+
