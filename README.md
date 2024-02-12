@@ -12,6 +12,8 @@ Eric Emmendorfer https://github.com/ericemmendorfer
 
 Hojong Shim https://github.com/HojongShim
 
+Ethan Kim https://github.com/ethanki
+
 ## Stakeholders
 
 The following is an interview conducted with Eddie Kim a Student Athlete at NYU in his Sophomore year, interviewed by Eric Emmendorfer.
